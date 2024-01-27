@@ -11,9 +11,9 @@ No dia 22/01/2024, dei início a uma imersão oferecida pela plataforma de curso
 
 :heavy_check_mark: Aula 03: Layout Flexbox, Pseudo-classes e Responsividade em CSS
 
-:hourglass_flowing_sand: Aula 04: CSS Grid, Media Queries e Manipulação do DOM com JavaScript
+:heavy_check_mark: Aula 04: CSS Grid, Media Queries e Manipulação do DOM com JavaScript
 
-:hourglass_flowing_sand: Aula 05: Frameworks e Eficiência: Introdução ao React e Angular
+:heavy_check_mark: Aula 05: Frameworks e Eficiência: Introdução ao React e Angular
 <br>
 
  # 	:seedling: Tecnologias Aplicadas  
